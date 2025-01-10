@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚒 I'm currently learning Full-Stack development at Le Wagon in Paris<br>💎 (imagine it's red) Ruby is a fun coding language to start with but <br>😎 I'm looking forward to learn more technologies
+🚒 I'm currently working as a Full-Stack Developer, applying my skills from Le Wagon in Paris<br>💎 (imagine it's red) Ruby is a fun coding language to start with but <br>😎 I'm looking forward to learn more technologies
 
 
 ## 🌐 Socials:
