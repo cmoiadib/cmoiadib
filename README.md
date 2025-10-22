@@ -72,14 +72,5 @@ A full-stack SaaS that lets users create and publish beautiful websites effortle
 
 ---
 
-## 📈 Profile Views
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=cmoiadib&icon=1&color=4)](https://visitcount.itsvg.in)
-
-</div>
-
----
-
 ✨ *“Build things. Break things. Learn fast.”*  
 💬 Open to collaborations, freelance work, or just dev talk.
