@@ -1,5 +1,7 @@
-<!-- Profile Header Animation -->
+<!-- 🐱 Animated Header -->
 <div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cat typing on keyboard" />
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Adib!;Full-Stack+Developer+from+Paris;Freelancer+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 </div>
 
@@ -42,8 +44,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools & Design**  
+**Tools & DevOps**  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-%23D50C2D.svg?style=for-the-badge&logo=hetzner&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS%20Hosting-%23007ACC.svg?style=for-the-badge&logo=serverless&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
@@ -63,6 +67,16 @@ A full-stack SaaS that lets users create and publish beautiful websites effortle
 <div align="center">
   
 ![Adib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmoiadib&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmoiadib&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Profile Views
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=cmoiadib&icon=1&color=4)](https://visitcount.itsvg.in)
 
 </div>
 
