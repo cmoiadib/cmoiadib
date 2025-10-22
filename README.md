@@ -63,7 +63,6 @@ A full-stack SaaS that lets users create and publish beautiful websites effortle
 <div align="center">
   
 ![Adib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmoiadib&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmoiadib&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
